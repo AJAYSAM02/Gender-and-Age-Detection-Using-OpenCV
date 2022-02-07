@@ -7,7 +7,13 @@ It is an open-source Computer Vision and Machine Learning library.
 This library is capable of processing real-time image and video while also boasting analytical capabilities.  
 
 ## What is a CNN?
-A Convolutional Neural Network is a deep neural network widely used for the purposes of image recognition and processing and NLP. 
+A Convolutional Neural Network is a deep neural network widely used for the purposes of image recognition and processing and NLP.  
+
+## DATASET
+We have used Adience dataset for this project  
+Link for the dataset: https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification  
+This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance.  
+It has a total of 26,580 photos of 2,284 subjects in eight age ranges and the size is of about 1 GB.
 
 ## ABOUT PROJECT
 In this project, we will use Deep Learning to accurately identify the gender and age of a person from a single image of a face. We will use a pre-trained model by  Tal Hassner and Gil Levi.
