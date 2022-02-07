@@ -2,9 +2,9 @@
 A gender and age detector that can approximately guess the gender and age of the person by analyzing the face of the person in a picture using Deep Learning.
 
 ## What is OpenCV?
-OpenCV is short for Open Source Computer Vision.
-It is an open-source Computer Vision and Machine Learning library.
-This library is capable of processing real-time image and video while also boasting analytical capabilities.
+OpenCV is short for Open Source Computer Vision.  
+It is an open-source Computer Vision and Machine Learning library.  
+This library is capable of processing real-time image and video while also boasting analytical capabilities.  
 
 ## What is a CNN?
 A Convolutional Neural Network is a deep neural network widely used for the purposes of image recognition and processing and NLP. 
